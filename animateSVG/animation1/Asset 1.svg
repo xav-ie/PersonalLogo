@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.09 96">
+    <defs>
+        <style>
+            .cls-1{fill:#43ff17}
+        </style>
+    </defs>
+    <title>
+        Asset 1
+    </title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Animation_1" data-name="Animation 1">
+            <g id="LAST">
+                <path class="cls-1" d="M48,0A48,48,0,1,0,96,48,48,48,0,0,0,48,0Zm-.09,93.08A45.09,45.09,0,1,1,93,48,45.08,45.08,0,0,1,47.91,93.08Z"/>
+            </g>
+            <g id="sleepy_eye" data-name="sleepy eye">
+                <path class="cls-1" d="M48.09,0a48,48,0,1,0,48,48A48,48,0,0,0,48.09,0ZM48,93.09A45.09,45.09,0,0,1,2.91,48H93.09A45.09,45.09,0,0,1,48,93.09Z"/>
+            </g>
+            <g id="full">
+                <path class="cls-1" d="M48,0A48,48,0,1,0,96,48,48,48,0,0,0,48,0Zm-.09,93.08A45.08,45.08,0,0,1,2.83,48,45.26,45.26,0,0,0,48.09,93,44.74,44.74,0,0,0,93,48,45.08,45.08,0,0,1,47.91,93.08Z"/>
+            </g>
+            <g id="_1" data-name="1">
+                <path class="cls-1" d="M48.09,48h0Zm0,0h0Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

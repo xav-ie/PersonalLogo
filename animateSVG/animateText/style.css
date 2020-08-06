@@ -1,0 +1,27 @@
+.shadow {
+    padding: 10px;
+    box-shadow: 6px 6px 16px rgba(0,0,0,.15), -6px -6px 16px rgba(255,255,255,.8);
+    position: relative;
+    display: inline-block;
+    border-radius: .5em;
+}
+
+body {
+    background-color: #EEE;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.source {
+    color: #EEE;
+    visibility: hidden;
+    display: none;
+}
+
+.takeSpace {
+    display: inline-block;
+}
+
+.fill {
+    color: black;
+}
